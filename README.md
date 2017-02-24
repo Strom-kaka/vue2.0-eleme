@@ -1,6 +1,7 @@
 # sell
 
 > A Vue.js project
+``` bash
 
 # 声明
 此作品为看完 Ustbhuangyi 老师的 Vue.js高仿饿了么外卖App 课程后，
@@ -26,7 +27,7 @@
 
 ## Build Setup
 
-``` bash
+
 # install dependencies
 npm install
 
